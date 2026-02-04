@@ -11,5 +11,5 @@ This repository contains coursework and projects for CIS 3902.
 <a href="https://githubtocolab.com/Knguyen351/-CIS-3902-AI-ML-Kevin-Nguyen/blob/main/Linear_Regression_Example_with_the_Housing_Data.ipynb">Linear Regression Example</a>
 </p>
 <p>
-<a href="https://githubtocolab.com/Knguyen351/-CIS-3902-AI-ML-Kevin-Nguyen/blob/main/Linear_Regression_Example_with_the_Housing_Data.ipynb">Linear Regression Example</a>
+<a href="https://githubtocolab.com/Knguyen351/-CIS-3902-AI-ML-Kevin-Nguyen/blob/main/bias_variance_overfitting_fertilizer_crop_yield_starter.ipynb">Bias Variance Example </a>
 </p>
