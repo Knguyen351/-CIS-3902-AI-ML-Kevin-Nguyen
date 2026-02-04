@@ -13,3 +13,8 @@ This repository contains coursework and projects for CIS 3902.
 <p>
 <a href="https://githubtocolab.com/Knguyen351/-CIS-3902-AI-ML-Kevin-Nguyen/blob/main/bias_variance_overfitting_fertilizer_crop_yield_starter.ipynb">Bias Variance Example </a>
 </p>
+
+<p>
+<a href="https://github.com/Knguyen351/-CIS-3902-AI-ML-Kevin-Nguyen/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb">Reading files </a>
+</p>
+
