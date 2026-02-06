@@ -15,7 +15,7 @@ This repository contains coursework and projects for CIS 3902.
 </p>
 
 <p>
-<a href="https://github.com/Knguyen351/-CIS-3902-AI-ML-Kevin-Nguyen/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb">Reading files </a>
+<a href="https://github.com/Knguyen351/-CIS-3902-AI-ML-Kevin-Nguyen/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb">Regularization </a>
 </p>
 
 <p>
