@@ -19,7 +19,13 @@ This repository contains coursework and projects for CIS 3902.
 </p>
 
 <p>
-<a href="https://githubtocolab.com/Knguyen351/-CIS-3902-AI-ML-Kevin-Nguyen/blob/main/regularization%20(1).ipynb">Reading files </a>
+<a href="https://github.com/Knguyen351/-CIS-3902-AI-ML-Kevin-Nguyen/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb">Regularization </a>
+</p>
+
+
+
+<p>
+<a href="https://colab.research.google.com/github/Knguyen351/-CIS-3902-AI-ML-Kevin-Nguyen/blob/main/Data_Cleaning_Exercise.ipynb">Data Cleaning in Python</a>
 </p>
 
 
