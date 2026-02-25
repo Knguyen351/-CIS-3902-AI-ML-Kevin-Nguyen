@@ -25,7 +25,7 @@ This repository contains coursework and projects for CIS 3902.
 
 
 <p>
-<a href="https://colab.research.google.com/github/Knguyen351/-CIS-3902-AI-ML-Kevin-Nguyen/blob/main/Data_Cleaning_Exercise.ipynb">Data Cleaning in Python</a>
+<a href="https://github.com/Knguyen351/-CIS-3902-AI-ML-Kevin-Nguyen/blob/main/Data_Cleaning_Exercise.ipynb">Data Cleaning in Python</a>
 </p>
 
 
