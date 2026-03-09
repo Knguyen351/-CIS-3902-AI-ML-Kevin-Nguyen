@@ -31,7 +31,7 @@ This repository contains coursework and projects for CIS 3902.
 
 
 <p>
-<a href="https://colab.research.google.com/drive/1nfsN6kPKn67isS3PZp6Ho-GN073NBMzs#scrollTo=Q3zDqR7Z0V3p">Data Cleaning in Python — Exercise</a>
+<a href="https://colab.research.google.com/drive/1nfsN6kPKn67isS3PZp6Ho-GN073NBMzs#scrollTo=Q3zDqR7Z0V3p">Mushrooms</a>
 </p>
 
 <p>
