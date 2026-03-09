@@ -34,5 +34,8 @@ This repository contains coursework and projects for CIS 3902.
 <a href="https://colab.research.google.com/drive/1nfsN6kPKn67isS3PZp6Ho-GN073NBMzs#scrollTo=Q3zDqR7Z0V3p">Data Cleaning in Python — Exercise</a>
 </p>
 
+<p>
+<a href="https://github.com/Knguyen351/-CIS-3902-AI-ML-Kevin-Nguyen/blob/main/Mushroom_Reduced_Student.ipynb">Data Cleaning in Python — Exercise</a>
+</p>
 
 
