@@ -39,7 +39,7 @@ This repository contains coursework and projects for CIS 3902.
 </p>
 
 <p>
-<a href="https://github.com/Knguyen351/-CIS-3902-AI-ML-Kevin-Nguyen/blob/main/Mushroom_Reduced_Student.ipynb](https://colab.research.google.com/github/Knguyen351/-CIS-3902-AI-ML-Kevin-Nguyen/blob/main/Autoviz_Kevin_Nguyen.ipynb)">Autoviz</a>
+<a href="[https://github.com/Knguyen351/-CIS-3902-AI-ML-Kevin-Nguyen/blob/main/Mushroom_Reduced_Student.ipynb](https://colab.research.google.com/github/Knguyen351/-CIS-3902-AI-ML-Kevin-Nguyen/blob/main/Autoviz_Kevin_Nguyen.ipynb)](https://colab.research.google.com/github/Knguyen351/-CIS-3902-AI-ML-Kevin-Nguyen/blob/main/Autoviz_Kevin_Nguyen.ipynb)">Autoviz</a>
 </p>
 
 
